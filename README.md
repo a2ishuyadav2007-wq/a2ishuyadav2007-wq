@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-yadav-9b7799371?utm_source=share_via&utm_-content=profile&utm_medium=member_ios"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:a2ishuyadav52007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
