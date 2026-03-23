@@ -37,25 +37,6 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name 1
-
-📌 Short description (what problem it solves)
-🔗 https://github.com/YOUR_USERNAME/project-link
-
-### 🔹 Project Name 2
-
-📌 Short description
-🔗 https://github.com/YOUR_USERNAME/project-link
-
-### 🔹 Project Name 3
-
-📌 Short description
-🔗 https://github.com/YOUR_USERNAME/project-link
-
-👉 *More projects in my repositories*
-
----
-
 <!-- STATS -->
 
 ## 📊 GitHub Stats
@@ -82,7 +63,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/aditya-yadav-9b7799371?utm_source=share_via&utm_-content=profile&utm_medium=member_ios"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
